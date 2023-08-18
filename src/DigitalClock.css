@@ -1,0 +1,19 @@
+.digital-clock {
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  .clock-heading {
+    font-size: 18px;
+    margin: 0;
+  }
+  
+  .clock-time {
+    font-size: 48px;
+    margin: 10px 0;
+  }
+  
