@@ -21,7 +21,8 @@ const DigitalClock=()=>{
       <h1 className="clock-time">{CurrDateTime.toLocaleString()}</h1>
     </div>
     <div>
-        <h6>Athul Jain</h6>
+   
+        <h6> &copy; Athul Jain</h6>
     </div>
     </div>
     )
