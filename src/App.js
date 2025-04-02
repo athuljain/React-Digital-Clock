@@ -1,5 +1,7 @@
 
 import './App.css';
+// import Home from './Component/Home';
+import SimpleMap from './Component/SampleMap';
 import DigitalClock from './DigitalClock';
 
 function App() {
@@ -7,6 +9,11 @@ function App() {
     <div className="App">
       <header className="App-header">
       <DigitalClock />
+
+      <SimpleMap />
+      {/* < Home /> */}
+
+
       </header>
     </div>
   );
